@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a101aeb9-7663-4fe2-a53b-bb77c4a368b9}</ProjectGuid>
-    <RootNamespace>CFProblem</RootNamespace>
+    <ProjectGuid>{6ed5d47f-b514-456a-8fda-cf9891bc2f60}</ProjectGuid>
+    <RootNamespace>CFTemplate</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CF Problem.cpp" />
+    <ClCompile Include="CF Template.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
