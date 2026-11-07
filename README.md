@@ -23,37 +23,17 @@ The goal of this repository is to practice problem solving, improve C++, and kee
 
 ## Progress
 
-**Total Solved:** 2
+**Total Solved:** 10
 
-**A:** 2
+**A:** 9
 
-**B:** 0
+**B:** 1
 
 **C:** 0
 
 **D:** 0
 
 **E+:** 0 
-
-
-
-## Solved Problems
-
-### 🟢 A
-
-- **004A - Watermelon**  
-  https://codeforces.com/problemset/problem/4/A
-
-- **071A - Way Too Long Words**  
-  https://codeforces.com/problemset/problem/71/A
-
-
-## To Solve
-
-### 🟢 A
-
-- **231A - Team**  
-  https://codeforces.com/problemset/problem/231/A
 
 
 ## Repository Structure
